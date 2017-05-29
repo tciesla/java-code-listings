@@ -2,6 +2,9 @@ package date.time.api;
 
 import java.time.LocalDate;
 
+/**
+ * LocalDate uses only days. Use LocalDateTime to use minutes and seconds.
+ */
 public class LocalDateExamples {
 
     public static void main(String[] args) {

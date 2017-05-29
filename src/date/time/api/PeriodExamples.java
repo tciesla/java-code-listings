@@ -3,6 +3,9 @@ package date.time.api;
 import java.time.LocalDate;
 import java.time.Period;
 
+/**
+ * Use Period class from day unit (Duration class below)
+ */
 public class PeriodExamples {
 
     public static void main(String[] args) {
