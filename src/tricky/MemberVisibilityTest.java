@@ -1,5 +1,7 @@
 package tricky;
 
+import static tricky.A.x;
+
 class A {
     static String x = "A";
 }
